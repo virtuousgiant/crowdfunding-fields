@@ -180,6 +180,11 @@ class Astoundify_Crowdfunding_Fields {
 	 * @return void
 	 */
 	function saved_data_subtitle( $data, $key, $campaign ) {
+		/**
+		 * Potentially do something more intensive, like getting term values, etc
+		 */
+
+		// Grab the meta
 		$subtitle = $campaign->__get( 'campaign_subtitle' );
 
 		return $subtitle;
