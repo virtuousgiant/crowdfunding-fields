@@ -1,6 +1,6 @@
 <?php
 /**
- * Plugin Name: Astoundify by Crowdfunding - Custom Fields
+ * Plugin Name: Crowdfunding by Astoundify - Custom Fields
  * Plugin URI:  https://github.com/astoundify/crowdfunding-fields
  * Description: An example plugin for adding custom fields to the Crowdfunding submission form.
  * Author:      Astoundify
